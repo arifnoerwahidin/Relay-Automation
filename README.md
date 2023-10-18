@@ -1,5 +1,5 @@
 # Relay-Automation
-ESP 32 to control 8 relay, lcd oled, dht22, with blynk edgent and manual switch
+ESP 32 to control 8 relay, lcd oled, dht22, with blynk and manual switch
 
 Demo: <a href="https://wokwi.com/projects/378571808518423553">https://wokwi.com/projects/378571808518423553</a>
 

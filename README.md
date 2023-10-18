@@ -3,6 +3,13 @@ ESP 32 to control 8 relay, lcd oled, dht22, with blynk edgent and manual switch
 
 Demo: <a href="https://wokwi.com/projects/378571808518423553">https://wokwi.com/projects/378571808518423553</a>
 
+Prototipe module:
+![image](https://github.com/panduan-code/Relay-Automation/assets/50077727/f83cea76-1708-4d37-96e6-8f1968854a8b)
+
+Library:
+![image](https://github.com/panduan-code/Relay-Automation/assets/50077727/d79df396-6f4d-4cb9-8b49-f94824e6eaed)
+
+
 Widget in Blynk cloud:
 ![image](https://github.com/panduan-code/Relay-Automation/assets/50077727/9ec7519d-791f-427b-992d-7ca206c2538c)
 
